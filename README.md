@@ -1,6 +1,6 @@
 # 📊 meu-powerbi-projeto-cohab
 
-Este repositório contém o projeto desenvolvido em **Power BI** para análise e visualização de dados da **Cohab**, com foco na **inadimplência de mutuários**, **valores renegociados**, **dívidas consolidadas** e o **desempenho dos eventos realizados**.
+Este repositório contém o projeto desenvolvido em **Power BI** para análise e visualização de dados da **Cohab**, com foco na **inadimplência de mutuários**, **valores renegociados** e o **dívidas consolidadas**.
 
 ## 🎯 Objetivo
 
